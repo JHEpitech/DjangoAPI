@@ -1,0 +1,26 @@
+[
+  {
+    "model": "heroes.hero",
+    "pk": 1,
+    "fields": {
+      "name": "Wonder Woman",
+      "alias": "WW"
+    }
+  },
+  {
+    "model": "heroes.hero",
+    "pk": 2,
+    "fields": {
+      "name": "Superman",
+      "alias": "S"
+    }
+  },
+  {
+    "model": "heroes.hero",
+    "pk": 3,
+    "fields": {
+      "name": "Batman",
+      "alias": "B"
+    }
+  }
+]
